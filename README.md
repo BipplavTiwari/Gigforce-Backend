@@ -1,5 +1,5 @@
-# Gigforce Assignment
-This repository contains my submission for the Backend task released by Gigforce.
+# LogBook
+This repository contains code for backend of LogBook, where you can store your data online and access them whenever needed.
 
 I used express framework and mongo db. All of the APIs were well tested using Postman. `/sample_Images` contains some images for reference.
 
@@ -78,11 +78,4 @@ method : GET
 ```
 Successful : 200_OK
 Unsuccessful : 401_UNAUTHORIZED
-```
-
-## Submitted by
-```
-Name : Bipplav Kumar Tiwari
-IITK Roll no : 200281
-IITK Email : bipplavkt20@iitk.ac.in
 ```
